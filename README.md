@@ -10,3 +10,5 @@ Main features:
 - Programmable timing using the 8253 timer
 - Matrix keypad scanning (4×3)
 - LED control and 6-digit 7-segment display multiplexing
+
+Note: The documentation and other additional comments are in Romanian, but the logic is easy to follow regardless of language.
