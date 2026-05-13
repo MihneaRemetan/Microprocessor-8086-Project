@@ -2,12 +2,9 @@
 
 # Intel 8086 Microcomputer System
 
-**A complete educational microsystem built around the Intel 8086, combining hardware design and low-level assembly programming**
+**Assembly 8086 • EasyEDA • UART • Peripheral Interfacing**
 
-![CPU](https://img.shields.io/badge/CPU-Intel%208086-blue?style=flat-square)
-![Language](https://img.shields.io/badge/Language-Assembly%208086-green?style=flat-square)
-![Design](https://img.shields.io/badge/Design-EasyEDA-orange?style=flat-square)
-![Peripherals](https://img.shields.io/badge/Peripherals-8251%2C%208255%2C%208253-purple?style=flat-square)
+**A complete educational microsystem built around the Intel 8086, combining hardware design and low-level assembly programming**
 
 </div>
 
@@ -127,11 +124,12 @@ The microsystem is built around the **Intel 8086 microprocessor** and integrates
 
 ---
 
-## 6. Project Structure
+## 6. Final Notes
 
-```bash
-.
-├── hardware/        # EasyEDA schematics
-├── assembly/        # 8086 Assembly code
-├── docs/            # Documentation (Romanian)
-└── README.md
+This project was fully designed and simulated in **EasyEDA**, including all hardware connections, address decoding logic, and peripheral integration around the Intel 8086 microprocessor.
+
+The software layer was developed entirely in **8086 Assembly**, using a modular approach with clearly separated subroutines for each system functionality.
+
+For a deeper understanding of the implementation details, design decisions, and system behavior, you are invited to explore the **project documentation**.
+
+---
